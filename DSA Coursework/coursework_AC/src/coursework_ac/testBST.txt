@@ -1,0 +1,13 @@
+1,Weird,Yungblud,4.20,Yungblud,2020,Weird,Rock
+2,Lithium,Nirvana,5.02,Kurt Cobain,1993,Nevermind,Grunge
+3,Smells like teen spirit,Nirvana,3.01,Kurt Cobain,1993,Nevermind,Grunge
+4,Heart Shaped Box,Nirvana,5.20,Kurt Cobain,1991,In Utero,Grunge
+5,Best of you,Foo Fighters,4.30,Dave Grohl,2002,Nirvana Drummer,Rock
+6,Mr Brightside,The Killers,2.20,Killer Man,2008,The Killers Album,Rock
+7,Fix You,Coldplay,5.40,Chris Martin,2003,Boring,Rock 
+8,Dream on,Aerosmith,6.50,Steven Tyler,1986,Aerosmith Album,Rock
+9,Hello,Adele,4.16,Adele,2012,Adele Album,Pop
+10,Jaded,Aerosmith,4.20,Steven Tyler,1985,Aerosmith Album,Rock
+11,American Idiot,Green Day,3.50,Billie Joe Armstrong,2002,American Idiot,Grunge
+12,Wake me up When September End,Green Day,2.50,Billie Joe Armstrong,2002,American Idiot,Grunge
+13,Monkey Wrench,Foo Fighters,4.27,Dave Grohl,1997,Colour and the Shape,Rock
